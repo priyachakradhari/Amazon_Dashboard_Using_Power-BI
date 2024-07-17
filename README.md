@@ -25,4 +25,3 @@ The objective of this evaluation is to advantage complete insights into Amazon's
 4. **Geographical Analysis:**
    - **Map Sales by way of Region:** Visualizing income distribution on a map to identify sturdy and vulnerable regions, permitting focused advertising and income efforts.
 
-By undertaking this designated analysis, Amazon can gain actionable insights to refine its income techniques, optimize product offerings, improve patron pride, and enhance common profitability. This comprehensive dashboard serves as a powerful device for data-pushed selection-making and strategic planning.
