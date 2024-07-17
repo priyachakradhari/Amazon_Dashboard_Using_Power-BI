@@ -10,10 +10,10 @@ The objective of this analysis is to gain comprehensive insights into Amazon's s
 
 Sales Projection and Performance:
 
-Total Sales Projection: Analyzing the sales projection of 2.26M units to understand the expected revenue.
-Product Unit Analysis: Evaluating the total number of product units sold, which stands at 8998 units, to gauge product popularity and demand.
-KPI Rating: Assessing the Key Performance Indicator (KPI) rating of 31K to determine the overall performance against set benchmarks.
-Shipped Returns: Reviewing the shipped return quantity of 8998 to identify potential issues in product quality or customer satisfaction.
+Total Sales Projection:  Analyzing the sales projection of 2.26M units to understand the expected revenue.
+Product Unit Analysis:  Evaluating the total number of product units sold, which stands at 8998 units, to gauge product popularity and demand.
+KPI Rating:  Assessing the Key Performance Indicator (KPI) rating of 31K to determine the overall performance against set benchmarks.
+Shipped Returns:  Reviewing the shipped return quantity of 8998 to identify potential issues in product quality or customer satisfaction.
 
 Sales by Segment and Market:
 
